@@ -1,10 +1,12 @@
 <html>
- <head>
+<head>
 <meta charset="utf-8">
 <title> HTML basics </title>
 <body>
 <ul>
-
+<li>  </li>
+<li>  </li>
+<li>  </li>
 
 </body>
 </head>
