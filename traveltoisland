@@ -1,0 +1,58 @@
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Project: Travel webpage</title>
+        <style>
+            
+            h1 {
+                color: rgb(42, 168, 80);
+            }
+            
+            body {
+                background-color: rgb(206, 240, 215);
+            }
+            
+            h2 {
+                color: rgb(42, 168, 80);
+            }
+            
+            #lists {
+                color: rgb(110, 79, 2);
+            }
+                
+            
+        </style>
+    </head>
+    <body>
+    
+        <h1>Travel to Island</h1>
+        
+        <img src="https://www.kasandbox.org/programming-images/space/planet.png" alt="cartoon island" width="203">
+      <h2>Background Info:</h2>
+      
+      <p>It is a very beatuful place where you can have all day</p>  
+
+        <ul id="lists"> 
+            <li>Trees</li>
+            <li>Rocks</li>
+            <li>Flowers</li>
+            <li>Grass</li>
+        </ul>
+        
+        <h2>To Do:</h2>
+        
+        <p>You can:</p>
+        
+        <ul id="lists">
+            <li>climb trees</li>
+            <li>smell flowers</li>
+            <li>jumo up and down</li>
+        </ul>
+        <img src="https://www.kasandbox.org/programming-images/cute/DirtBlock.png" alt="dirt" width="125">
+        <img src="https://www.kasandbox.org/programming-images/cute/GrassBlock.png" alt="grass" width="125">
+        <img src="https://www.kasandbox.org/programming-images/cute/WaterBlock.png" alt="water" width="125">
+        
+      
+        
+    </body>
+</html>
